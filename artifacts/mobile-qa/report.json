@@ -1,0 +1,839 @@
+{
+  "startedAt": "2026-09-25T08:43:16.461Z",
+  "browser": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "cases": [
+    {
+      "label": "320x740",
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "reducedMotion": false,
+      "checks": [
+        "intro visible and fits viewport",
+        "gift opens at top and focuses title",
+        "cake responds with a surprise greeting",
+        "music starts from gesture and toggles off/on",
+        "chapter menu opens and Escape closes it",
+        "wish star changes its message",
+        "reason and note copy fits within cards",
+        "native touch swipe advances reason cards",
+        "memory card flips open and closes",
+        "secret ticket reveals its message",
+        "letter opens, receives focus and folds closed",
+        "holding a real touch extinguishes candles",
+        "countdown reaches birthday reveal",
+        "finale can be replayed"
+      ],
+      "errors": [],
+      "initialDimensions": {
+        "viewport": 320,
+        "document": 320,
+        "body": 320
+      },
+      "introButtonBox": {
+        "x": 73.296875,
+        "y": 473.578125,
+        "width": 173.390625,
+        "height": 56
+      },
+      "audio": [
+        {
+          "state": "running",
+          "currentTime": 0.30133333333333334
+        }
+      ],
+      "cardClipping": {
+        "reasons": [
+          {
+            "text": "Nụ cười tươi",
+            "clientHeight": 398,
+            "scrollHeight": 447,
+            "copyBottom": 312
+          },
+          {
+            "text": "Sự hài hước",
+            "clientHeight": 398,
+            "scrollHeight": 447,
+            "copyBottom": 312
+          },
+          {
+            "text": "Cách em là chính mình",
+            "clientHeight": 398,
+            "scrollHeight": 447,
+            "copyBottom": 344
+          },
+          {
+            "text": "Nguồn năng lượng tích cực",
+            "clientHeight": 398,
+            "scrollHeight": 447,
+            "copyBottom": 344
+          },
+          {
+            "text": "Sự chu đáo",
+            "clientHeight": 398,
+            "scrollHeight": 447,
+            "copyBottom": 312
+          },
+          {
+            "text": "Tinh thần lạc quan",
+            "clientHeight": 398,
+            "scrollHeight": 447,
+            "copyBottom": 312
+          },
+          {
+            "text": "Lòng tốt của em",
+            "clientHeight": 398,
+            "scrollHeight": 447,
+            "copyBottom": 312
+          },
+          {
+            "text": "Sự tò mò",
+            "clientHeight": 398,
+            "scrollHeight": 447,
+            "copyBottom": 312
+          },
+          {
+            "text": "Cả lúc bướng bỉnh",
+            "clientHeight": 398,
+            "scrollHeight": 447,
+            "copyBottom": 312
+          },
+          {
+            "text": "Chính là Hạnh",
+            "clientHeight": 398,
+            "scrollHeight": 447,
+            "copyBottom": 312
+          }
+        ],
+        "notes": [
+          {
+            "clientHeight": 378,
+            "scrollHeight": 378
+          },
+          {
+            "clientHeight": 378,
+            "scrollHeight": 378
+          },
+          {
+            "clientHeight": 378,
+            "scrollHeight": 378
+          },
+          {
+            "clientHeight": 378,
+            "scrollHeight": 378
+          },
+          {
+            "clientHeight": 378,
+            "scrollHeight": 378
+          },
+          {
+            "clientHeight": 378,
+            "scrollHeight": 378
+          }
+        ]
+      },
+      "finalDimensions": {
+        "viewport": 320,
+        "document": 320,
+        "body": 320
+      },
+      "status": "passed"
+    },
+    {
+      "label": "390x844",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "reducedMotion": false,
+      "checks": [
+        "intro visible and fits viewport",
+        "gift opens at top and focuses title",
+        "cake responds with a surprise greeting",
+        "music starts from gesture and toggles off/on",
+        "chapter menu opens and Escape closes it",
+        "wish star changes its message",
+        "reason and note copy fits within cards",
+        "native touch swipe advances reason cards",
+        "memory card flips open and closes",
+        "native touch swipe advances memory cards",
+        "scratching ticket reveals its message",
+        "secret ticket reveals its message",
+        "letter opens, receives focus and folds closed",
+        "holding a real touch extinguishes candles",
+        "countdown reaches birthday reveal",
+        "finale can be replayed"
+      ],
+      "errors": [],
+      "initialDimensions": {
+        "viewport": 390,
+        "document": 390,
+        "body": 390
+      },
+      "introButtonBox": {
+        "x": 108.296875,
+        "y": 529.1875,
+        "width": 173.390625,
+        "height": 56
+      },
+      "audio": [
+        {
+          "state": "running",
+          "currentTime": 1.6213333333333333
+        }
+      ],
+      "cardClipping": {
+        "reasons": [
+          {
+            "text": "Nụ cười tươi",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Sự hài hước",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Cách em là chính mình",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 362
+          },
+          {
+            "text": "Nguồn năng lượng tích cực",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 362
+          },
+          {
+            "text": "Sự chu đáo",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Tinh thần lạc quan",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Lòng tốt của em",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Sự tò mò",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Cả lúc bướng bỉnh",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Chính là Hạnh",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          }
+        ],
+        "notes": [
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          }
+        ]
+      },
+      "finalDimensions": {
+        "viewport": 390,
+        "document": 390,
+        "body": 390
+      },
+      "status": "passed"
+    },
+    {
+      "label": "430x932",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "reducedMotion": false,
+      "checks": [
+        "intro visible and fits viewport",
+        "gift opens at top and focuses title",
+        "cake responds with a surprise greeting",
+        "music starts from gesture and toggles off/on",
+        "chapter menu opens and Escape closes it",
+        "wish star changes its message",
+        "reason and note copy fits within cards",
+        "native touch swipe advances reason cards",
+        "memory card flips open and closes",
+        "secret ticket reveals its message",
+        "letter opens, receives focus and folds closed",
+        "candle tap alternative responds",
+        "countdown reaches birthday reveal",
+        "finale can be replayed"
+      ],
+      "errors": [],
+      "initialDimensions": {
+        "viewport": 430,
+        "document": 430,
+        "body": 430
+      },
+      "introButtonBox": {
+        "x": 128.296875,
+        "y": 577.984375,
+        "width": 173.390625,
+        "height": 56
+      },
+      "audio": [
+        {
+          "state": "running",
+          "currentTime": 1.72
+        }
+      ],
+      "cardClipping": {
+        "reasons": [
+          {
+            "text": "Nụ cười tươi",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 302
+          },
+          {
+            "text": "Sự hài hước",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Cách em là chính mình",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 362
+          },
+          {
+            "text": "Nguồn năng lượng tích cực",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 337
+          },
+          {
+            "text": "Sự chu đáo",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Tinh thần lạc quan",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Lòng tốt của em",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Sự tò mò",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Cả lúc bướng bỉnh",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Chính là Hạnh",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          }
+        ],
+        "notes": [
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          }
+        ]
+      },
+      "finalDimensions": {
+        "viewport": 430,
+        "document": 430,
+        "body": 430
+      },
+      "status": "passed"
+    },
+    {
+      "label": "768x1024",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "reducedMotion": false,
+      "checks": [
+        "intro visible and fits viewport",
+        "gift opens at top and focuses title",
+        "cake responds with a surprise greeting",
+        "music starts from gesture and toggles off/on",
+        "chapter menu opens and Escape closes it",
+        "wish star changes its message",
+        "reason and note copy fits within cards",
+        "keyboard advances reason cards",
+        "memory card flips open and closes",
+        "secret ticket reveals its message",
+        "letter opens, receives focus and folds closed",
+        "candles respond to Enter",
+        "countdown reaches birthday reveal",
+        "finale can be replayed"
+      ],
+      "errors": [],
+      "initialDimensions": {
+        "viewport": 768,
+        "document": 768,
+        "body": 768
+      },
+      "introButtonBox": {
+        "x": 297.296875,
+        "y": 660.25,
+        "width": 173.390625,
+        "height": 56
+      },
+      "audio": [
+        {
+          "state": "running",
+          "currentTime": 1.3413333333333333
+        }
+      ],
+      "cardClipping": {
+        "reasons": [
+          {
+            "text": "Nụ cười tươi",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 363
+          },
+          {
+            "text": "Sự hài hước",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Cách em là chính mình",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 430
+          },
+          {
+            "text": "Nguồn năng lượng tích cực",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 405
+          },
+          {
+            "text": "Sự chu đáo",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Tinh thần lạc quan",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Lòng tốt của em",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Sự tò mò",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Cả lúc bướng bỉnh",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Chính là Hạnh",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          }
+        ],
+        "notes": [
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          }
+        ]
+      },
+      "finalDimensions": {
+        "viewport": 768,
+        "document": 768,
+        "body": 768
+      },
+      "status": "passed"
+    },
+    {
+      "label": "1440x900",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "reducedMotion": false,
+      "checks": [
+        "intro visible and fits viewport",
+        "gift opens at top and focuses title",
+        "cake responds with a surprise greeting",
+        "music starts from gesture and toggles off/on",
+        "chapter menu opens and Escape closes it",
+        "wish star changes its message",
+        "reason and note copy fits within cards",
+        "keyboard advances reason cards",
+        "memory card flips open and closes",
+        "secret ticket reveals its message",
+        "letter opens, receives focus and folds closed",
+        "candles respond to Enter",
+        "countdown reaches birthday reveal",
+        "finale can be replayed"
+      ],
+      "errors": [],
+      "initialDimensions": {
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440
+      },
+      "introButtonBox": {
+        "x": 633.296875,
+        "y": 598.25,
+        "width": 173.390625,
+        "height": 56
+      },
+      "audio": [
+        {
+          "state": "running",
+          "currentTime": 2.04
+        }
+      ],
+      "cardClipping": {
+        "reasons": [
+          {
+            "text": "Nụ cười tươi",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 363
+          },
+          {
+            "text": "Sự hài hước",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Cách em là chính mình",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 430
+          },
+          {
+            "text": "Nguồn năng lượng tích cực",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 405
+          },
+          {
+            "text": "Sự chu đáo",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Tinh thần lạc quan",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Lòng tốt của em",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Sự tò mò",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Cả lúc bướng bỉnh",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          },
+          {
+            "text": "Chính là Hạnh",
+            "clientHeight": 483,
+            "scrollHeight": 532,
+            "copyBottom": 387
+          }
+        ],
+        "notes": [
+          {
+            "clientHeight": 423,
+            "scrollHeight": 423
+          },
+          {
+            "clientHeight": 423,
+            "scrollHeight": 423
+          },
+          {
+            "clientHeight": 423,
+            "scrollHeight": 423
+          },
+          {
+            "clientHeight": 423,
+            "scrollHeight": 423
+          },
+          {
+            "clientHeight": 423,
+            "scrollHeight": 423
+          },
+          {
+            "clientHeight": 423,
+            "scrollHeight": 423
+          }
+        ]
+      },
+      "finalDimensions": {
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440
+      },
+      "status": "passed"
+    },
+    {
+      "label": "390x844-reduced-motion",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "reducedMotion": true,
+      "checks": [
+        "intro visible and fits viewport",
+        "gift opens at top and focuses title",
+        "cake responds with a surprise greeting",
+        "music starts from gesture and toggles off/on",
+        "chapter menu opens and Escape closes it",
+        "wish star changes its message",
+        "reason and note copy fits within cards",
+        "native touch swipe advances reason cards",
+        "memory card flips open and closes",
+        "secret ticket reveals its message",
+        "letter opens, receives focus and folds closed",
+        "candles respond to Space",
+        "countdown reaches birthday reveal",
+        "finale can be replayed"
+      ],
+      "errors": [],
+      "initialDimensions": {
+        "viewport": 390,
+        "document": 390,
+        "body": 390
+      },
+      "introButtonBox": {
+        "x": 108.296875,
+        "y": 529.1875,
+        "width": 173.390625,
+        "height": 56
+      },
+      "audio": [
+        {
+          "state": "running",
+          "currentTime": 1.08
+        }
+      ],
+      "cardClipping": {
+        "reasons": [
+          {
+            "text": "Nụ cười tươi",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Sự hài hước",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Cách em là chính mình",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 362
+          },
+          {
+            "text": "Nguồn năng lượng tích cực",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 362
+          },
+          {
+            "text": "Sự chu đáo",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Tinh thần lạc quan",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Lòng tốt của em",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Sự tò mò",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Cả lúc bướng bỉnh",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          },
+          {
+            "text": "Chính là Hạnh",
+            "clientHeight": 408,
+            "scrollHeight": 457,
+            "copyBottom": 326
+          }
+        ],
+        "notes": [
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          },
+          {
+            "clientHeight": 388,
+            "scrollHeight": 388
+          }
+        ]
+      },
+      "finalDimensions": {
+        "viewport": 390,
+        "document": 390,
+        "body": 390
+      },
+      "status": "passed"
+    }
+  ],
+  "baseURL": "http://127.0.0.1:4179/",
+  "finishedAt": "2026-09-25T08:44:49.750Z",
+  "status": "passed"
+}
