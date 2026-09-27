@@ -348,7 +348,13 @@ export default function BirthdayExperience() {
   const music = useBirthdayMusic()
   const { scrollYProgress } = useScroll()
   const scaleX = useSpring(scrollYProgress, { stiffness: 150, damping: 35, restDelta: 0.001 })
-  useEffect(() => { document.body.style.overflow = opened ? '' : 'hidden'; return () => { document.body.style.overflow = '' } }, [opened])
+  useEffect(() => {
+    document.body.style.overflow = opened ? '' : 'hidden'
+    if (opened) {
+      document.title = 'Hôm nay là ngày của Hạnh ✦'
+    }
+    return () => { document.body.style.overflow = '' }
+  }, [opened])
   useEffect(() => {
     if (!opened) return
     const sections = document.querySelectorAll('.chapter')
